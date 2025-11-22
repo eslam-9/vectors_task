@@ -1,0 +1,1 @@
+enum VectorOperationType { addition, subtraction }
